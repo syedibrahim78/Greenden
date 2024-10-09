@@ -11,7 +11,7 @@ closenav.addEventListener("click",function(){
     sidenav.style.right="-50%"
 })
 
-// product search functionalty
+//product search functionalty
 
 let productContainer=document.getElementById("product-container")
 let search=document.getElementById("search")
